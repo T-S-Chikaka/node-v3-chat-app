@@ -8,4 +8,4 @@ Visibility of signed in users
 
 
 
-https://dashboard.heroku.com/apps/chikaka-weather-app
+https://tatenda-node-v3-chatapp.herokuapp.com/
